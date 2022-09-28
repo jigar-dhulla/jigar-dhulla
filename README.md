@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jigarakatidus
 - 🐘 I build web applications in PHP.
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning React
+- 🌱 I’m continuing to learn Laravel
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 You can get in touch with me on twitter: @jigar_dhulla
 
