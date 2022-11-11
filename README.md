@@ -4,6 +4,8 @@
 - 🌱 I’m continuing to learn Laravel
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 You can get in touch with me on twitter: @jigar_dhulla
+  - <a rel="me" href="https://phpc.social/@jigar">Mastodon</a>
+  - <a href="https://www.twitter.com/jigar_dhulla">Twitter</a>
 
 <!---
 jigarakatidus/jigarakatidus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
